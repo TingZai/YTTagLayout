@@ -22,7 +22,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    //add gouyuankai addgouyuankai2
+    //add gouyuankai addgouyuankai2 addgou2
     [self creatUI];
 }
 
