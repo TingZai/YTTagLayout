@@ -26,8 +26,10 @@
 
 
 - (void)didReceiveMemoryWarning {
+    
+    NSLog(@"接收到内存警告");
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+   
 }
 
 
