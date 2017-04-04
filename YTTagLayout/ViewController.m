@@ -27,7 +27,7 @@
 
 - (void)didReceiveMemoryWarning {
     
-    NSLog(@"接收到内存警告");
+    NSLog(@"接收到内存警告!!");
     [super didReceiveMemoryWarning];
    
 }
